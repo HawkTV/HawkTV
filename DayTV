@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 11 Kan" tvg-logo="http://i.imgur.com/0NpeC9V.png",Kan 11
 http://tv.shacktv.com:8080/live/solache/solache/61091.ts
 #EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 14 Eser" tvg-logo=http://i.imgur.com/rAPIHkx.png",Channel 14 Eser
