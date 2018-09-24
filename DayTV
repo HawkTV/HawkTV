@@ -1,71 +1,93 @@
 #EXTM3U
-#EXTINF:-1,The Travel Channel IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92080.ts
-#EXTINF:-1,The Food Channel IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92081.ts
-#EXTINF:-1,Music 24 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92083.ts
-#EXTINF:-1,Hot Junior IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92084.ts
-#EXTINF:-1,Hop Yaldut IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92085.ts
-#EXTINF:-1,Disney Jr. IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92086.ts
-#EXTINF:-1,Keshet (12)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92087.ts
-#EXTINF:-1,Reshet (13)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92088.ts
-#EXTINF:-1,Channel 10 Online IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92089.ts
-#EXTINF:-1,Channel 10 IdanPlus IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92090.ts
-#EXTINF:-1,Kan (11)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92091.ts
-#EXTINF:-1,5 3p0rt1 Online IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92092.ts
-#EXTINF:-1,9 Kanal IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92093.ts
-#EXTINF:-1,Action IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92094.ts
-#EXTINF:-1,Baby IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92095.ts
-#EXTINF:-1,Channel 10 (Israel) IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92096.ts
-#EXTINF:-1,Keshet_(12)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92097.ts
-#EXTINF:-1,Channel 20 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92098.ts
-#EXTINF:-1,Channel 9 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92099.ts
-#EXTINF:-1,Drama IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92100.ts
-#EXTINF:-1,Fun IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92101.ts
-#EXTINF:-1,One (Sport)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92102.ts
-#EXTINF:-1,Home Plus IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92103.ts
-#EXTINF:-1,Hop IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92104.ts
-#EXTINF:-1,IBA Channel 1 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92106.ts
-#EXTINF:-1,Nick IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92107.ts
-#EXTINF:-1,YES Nick Jr IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92108.ts
-#EXTINF:-1,Nickelodeon IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92109.ts
-#EXTINF:-1,ONE IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92110.ts
-#EXTINF:-1,Plus One (Sport)
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92111.ts
-#EXTINF:-1,Sp0rt 1 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92112.ts
-#EXTINF:-1,Sp0rt 2 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92113.ts
-#EXTINF:-1,Sp0rt 5Live IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92114.ts
-#EXTINF:-1,Sp0rt 5 IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92115.ts
-#EXTINF:-1,Viva IL
-http://193.200.164.165:83/live/agntPSX/34g3g3g33h/92116.ts
+#EXTINF:-1,yes 1
+http://s1-p3.peer5.net/edge/1-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 2
+http://s1-p3.peer5.net/edge/2-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 3
+http://s1-p3.peer5.net/edge/3-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 4
+http://s1-p3.peer5.net/edge/4-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 5
+http://s1-p3.peer5.net/edge/5-1.stream/chunklist.m3u8
+#EXTINF:-1,yes drama
+http://s1-p3.peer5.net/edge/6-1.stream/chunklist.m3u8
+#EXTINF:-1,yes action
+http://s1-p3.peer5.net/edge/7-1.stream/chunklist.m3u8
+#EXTINF:-1,yes oh
+http://s1-p3.peer5.net/edge/8-1.stream/chunklist.m3u8
+#EXTINF:-1,yes ×§×•×œ× ×•×¢ ×™×©×¨××œ×™
+http://s1-p3.peer5.net/edge/9-1.stream/chunklist.m3u8
+#EXTINF:-1,yes comedy
+http://s1-p3.peer5.net/edge/10-1.stream/chunklist.m3u8
+#EXTINF:-1,yes bolywood
+http://s1-p3.peer5.net/edge/11-1.stream/chunklist.m3u8
+#EXTINF:-1,yes doco
+http://s1-p3.peer5.net/edge/12-1.stream/chunklist.m3u8
+#EXTINF:-1,yes n.g.
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
+#EXTINF:-1,yes n.G.wild
+http://s1-p3.peer5.net/edge/14-1.stream/chunklist.m3u8
+#EXTINF:-1,yes history HD
+http://s1-p3.peer5.net/edge/15-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”×˜×™×•×œ×™×
+http://s1-p3.peer5.net/edge/16-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”×‘×¨×™××•×ª
+http://s1-p3.peer5.net/edge/17-1.stream/chunklist.m3u8
+#EXTINF:-1,×‘×™×ª+
+http://s1-p3.peer5.net/edge/18-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”×—×™×™× ×”×˜×•×‘×™×
+http://s1-p3.peer5.net/edge/19-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”××•×›×œ
+http://s1-p3.peer5.net/edge/20-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”×“×‘×¨×•×ª
+http://s1-p3.peer5.net/edge/21-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ E
+http://s1-p3.peer5.net/edge/22-1.stream/chunklist.m3u8
+#EXTINF:-1,viva
+http://s1-p3.peer5.net/edge/23-1.stream/chunklist.m3u8
+#EXTINF:-1,viva+
+http://s1-p3.peer5.net/edge/24-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×™× ×ª×™×›×•× ×™
+http://s1-p3.peer5.net/edge/25-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ 24
+http://s1-p3.peer5.net/edge/26-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ 2
+http://s1-p3.peer5.net/edge/27-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ 10
+http://s1-p3.peer5.net/edge/28-1.stream/chunklist.m3u8
+#EXTINF:-1,×›××Ÿ 11
+http://s1-p3.peer5.net/edge/29-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ 20
+http://s1-p3.peer5.net/edge/30-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ 9
+http://s1-p3.peer5.net/edge/31-1.stream/chunklist.m3u8
+#EXTINF:-1,hot 3  
+http://s1-p3.peer5.net/edge/70-1.stream/chunklist.m3u8
+#EXTINF:-1, hot action
+http://s1-p3.peer5.net/edge/71-1.stream/chunklist.m3u8
+#EXTINF:-1, hot fun
+http://s1-p3.peer5.net/edge/72-1.stream/chunklist.m3u8
+#EXTINF:-1, hot gold
+http://s1-p3.peer5.net/edge/73-1.stream/chunklist.m3u8
+#EXTINF:-1,hot drama
+http://s1-p3.peer5.net/edge/74-1.stream/chunklist.m3u8
+#EXTINF:-1,×¢×¨×•×¥ ×”×™×œ×“×™×
+http://s1-p3.peer5.net/edge/75-1.stream/chunklist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 1
+http://185.189.113.94:1935/live1/sport1.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 2
+http://185.189.113.94:1935/live1/sport2.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 3
+http://185.189.113.94:1935/live1/sport3.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 4
+http://s1-p3.peer5.net/edge/55-1.stream/chunklist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 5
+http://185.189.113.94:1935/live1/sport5.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×¤×œ×•×¡
+http://185.189.113.94:1935/live1/5plus.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×œ×™×™×‘
+http://185.189.113.94:1935/live1/5live.stream/playlist.m3u8
+#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×’×•×œ×“
+http://185.189.113.94:1935/live1/5gold.stream/playlist.m3u8
+#EXTINF:-1,×•×•××Ÿ
+http://185.189.113.94:1935/live1/one.stream/playlist.m3u8
