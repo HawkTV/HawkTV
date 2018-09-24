@@ -1,93 +1,140 @@
 #EXTM3U
-#EXTINF:-1,yes 1
-http://s1-p3.peer5.net/edge/1-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 2
-http://s1-p3.peer5.net/edge/2-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 3
-http://s1-p3.peer5.net/edge/3-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 4
-http://s1-p3.peer5.net/edge/4-1.stream/chunklist.m3u8
-#EXTINF:-1,yes 5
-http://s1-p3.peer5.net/edge/5-1.stream/chunklist.m3u8
-#EXTINF:-1,yes drama
-http://s1-p3.peer5.net/edge/6-1.stream/chunklist.m3u8
-#EXTINF:-1,yes action
-http://s1-p3.peer5.net/edge/7-1.stream/chunklist.m3u8
-#EXTINF:-1,yes oh
-http://s1-p3.peer5.net/edge/8-1.stream/chunklist.m3u8
-#EXTINF:-1,yes ×§×•×œ× ×•×¢ ×™×©×¨××œ×™
-http://s1-p3.peer5.net/edge/9-1.stream/chunklist.m3u8
-#EXTINF:-1,yes comedy
-http://s1-p3.peer5.net/edge/10-1.stream/chunklist.m3u8
-#EXTINF:-1,yes bolywood
-http://s1-p3.peer5.net/edge/11-1.stream/chunklist.m3u8
-#EXTINF:-1,yes doco
-http://s1-p3.peer5.net/edge/12-1.stream/chunklist.m3u8
-#EXTINF:-1,yes n.g.
-http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
-#EXTINF:-1,yes n.G.wild
-http://s1-p3.peer5.net/edge/14-1.stream/chunklist.m3u8
-#EXTINF:-1,yes history HD
-http://s1-p3.peer5.net/edge/15-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”×˜×™×•×œ×™×
-http://s1-p3.peer5.net/edge/16-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”×‘×¨×™××•×ª
-http://s1-p3.peer5.net/edge/17-1.stream/chunklist.m3u8
-#EXTINF:-1,×‘×™×ª+
-http://s1-p3.peer5.net/edge/18-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”×—×™×™× ×”×˜×•×‘×™×
-http://s1-p3.peer5.net/edge/19-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”××•×›×œ
-http://s1-p3.peer5.net/edge/20-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”×“×‘×¨×•×ª
-http://s1-p3.peer5.net/edge/21-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ E
-http://s1-p3.peer5.net/edge/22-1.stream/chunklist.m3u8
-#EXTINF:-1,viva
-http://s1-p3.peer5.net/edge/23-1.stream/chunklist.m3u8
-#EXTINF:-1,viva+
-http://s1-p3.peer5.net/edge/24-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×™× ×ª×™×›×•× ×™
-http://s1-p3.peer5.net/edge/25-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ 24
-http://s1-p3.peer5.net/edge/26-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ 2
-http://s1-p3.peer5.net/edge/27-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ 10
-http://s1-p3.peer5.net/edge/28-1.stream/chunklist.m3u8
-#EXTINF:-1,×›××Ÿ 11
-http://s1-p3.peer5.net/edge/29-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ 20
-http://s1-p3.peer5.net/edge/30-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ 9
-http://s1-p3.peer5.net/edge/31-1.stream/chunklist.m3u8
-#EXTINF:-1,hot 3  
-http://s1-p3.peer5.net/edge/70-1.stream/chunklist.m3u8
-#EXTINF:-1, hot action
-http://s1-p3.peer5.net/edge/71-1.stream/chunklist.m3u8
-#EXTINF:-1, hot fun
-http://s1-p3.peer5.net/edge/72-1.stream/chunklist.m3u8
-#EXTINF:-1, hot gold
-http://s1-p3.peer5.net/edge/73-1.stream/chunklist.m3u8
-#EXTINF:-1,hot drama
-http://s1-p3.peer5.net/edge/74-1.stream/chunklist.m3u8
-#EXTINF:-1,×¢×¨×•×¥ ×”×™×œ×“×™×
-http://s1-p3.peer5.net/edge/75-1.stream/chunklist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 1
-http://185.189.113.94:1935/live1/sport1.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 2
-http://185.189.113.94:1935/live1/sport2.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 3
-http://185.189.113.94:1935/live1/sport3.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 4
-http://s1-p3.peer5.net/edge/55-1.stream/chunklist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 5
-http://185.189.113.94:1935/live1/sport5.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×¤×œ×•×¡
-http://185.189.113.94:1935/live1/5plus.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×œ×™×™×‘
-http://185.189.113.94:1935/live1/5live.stream/playlist.m3u8
-#EXTINF:-1,×¡×¤×•×¨×˜ 5 ×’×•×œ×“
-http://185.189.113.94:1935/live1/5gold.stream/playlist.m3u8
-#EXTINF:-1,×•×•××Ÿ
-http://185.189.113.94:1935/live1/one.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 11 Kan" tvg-logo="http://i.imgur.com/0NpeC9V.png",Kan 11
+http://tv.shacktv.com:8080/live/solache/solache/61091.ts
+#EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 14 Eser" tvg-logo=http://i.imgur.com/rAPIHkx.png",Channel 14 Eser
+http://tv.shacktv.com:8080/live/solache/solache/61090.ts
+#EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 12" tvg-logo=http://i.imgur.com/p8dbYZ8.png",Keshet
+http://tv.shacktv.com:8080/live/solache/solache/61089.ts
+#EXTINF:-1,  tvg-id="" tvg-name=" Israel Channel 13 Reshet" tvg-logo=http://i.imgur.com/TAYtY17.png",Reshet
+http://tv.shacktv.com:8080/live/solache/solache/61088.ts
+#EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 20" tvg-logo=http://i.imgur.com/ecJv7Ao.png",Channel 20
+http://tv.shacktv.com:8080/live/solache/solache/61086.ts
+#EXTINF:-1, ARUTZ 99
+http://tv.shacktv.com:8080/live/solache/solache/61085.ts
+#EXTINF:-1, kan 11  tvg-logo="https://i.imgur.com/0NpeC9V.png",Kan 11
+http://tv.shacktv.com:8080/live/solache/solache/61097.ts
+#EXTINF:-1, KESHET 12  tvg-logo="https://i.imgur.com/p8dbYZ8.png",Keshet
+http://tv.shacktv.com:8080/live/solache/solache/61095.ts
+#EXTINF:-1, ESER  tvg-logo="https://i.imgur.com/rAPIHkx.png",Channel 14 Eser
+http://tv.shacktv.com:8080/live/solache/solache/61096.ts
+#EXTINF:-1, CHANNEL 2 NEWS tvg-logo="https://i.imgur.com/p8dbYZ8.png",12 nwes
+http://tv.shacktv.com:8080/live/solache/solache/61094.ts
+#EXTINF:-1, tvg-id="" tvg-name=" Israel Channel 20" tvg-logo=http://i.imgur.com/ecJv7Ao.png",Channel 20
+http://tv.shacktv.com:8080/live/solache/solache/61093.ts
+#EXTINF:-1, YES NAT GEO tvg-logo="https://i.imgur.com/6bxkwNU.png",NG Wild
+#EXTINF:-1, tvg-logo="https://i.imgur.com/euhNuK9.png",HOT 3
+http://tv.shacktv.com:8080/live/solache/solache/60924.ts
+#EXTINF:-1, HOT ACTION   tvg-logo="https://i.imgur.com/6tbW2AP.png",HOT Action
+http://tv.shacktv.com:8080/live/solache/solache/60923.ts
+#EXTINF:-1, HOT AMC tvg-logo="https://i.imgur.com/e5riB2m.png",AMC
+http://tv.shacktv.com:8080/live/solache/solache/60922.ts
+#EXTINF:-1, HOT BOMBAY tvg-logo="https://i.imgur.com/wzLKoQL.png",HOT Bombay
+http://tv.shacktv.com:8080/live/solache/solache/60921.ts
+#EXTINF:-1, CHANNEL 8  tvg-logo="https://i.imgur.com/L8gB0XQ.png",Channel 8
+http://tv.shacktv.com:8080/live/solache/solache/60920.ts
+#EXTINF:-1, HOT COMEDY CENTRAL tvg-logo="https://i.imgur.com/uGGGta8.png",HOT Comedy Central
+http://tv.shacktv.com:8080/live/solache/solache/60919.ts
+#EXTINF:-1, HOT DRAMA tvg-logo="https://i.imgur.com/RDUfC2L.png",HOT Drama
+http://tv.shacktv.com:8080/live/solache/solache/60918.ts
+#EXTINF:-1, HOT ENTERTAIMENT tvg-logo="https://i.imgur.com/hi6YeWL.png",HOT Bidor Israeli
+http://tv.shacktv.com:8080/live/solache/solache/60917.ts
+#EXTINF:-1, HOT FOOD CHANNEL tvg-logo="https://i.imgur.com/0R116tp.png",Food Channel
+http://tv.shacktv.com:8080/live/solache/solache/60916.ts
+#EXTINF:-1, HOT FUN  tvg-logo="https://i.imgur.com/uTlyX09.png",HOT Fun
+http://tv.shacktv.com:8080/live/solache/solache/60915.ts
+#EXTINF:-1, HOT GOLD  " tvg-logo="https://i.imgur.com/faswVBU.png",HOT Gold
+http://tv.shacktv.com:8080/live/solache/solache/60914.ts
+#EXTINF:-1, HOT HOP  tvg-logo="https://i.imgur.com/ezCzqOc.png",Hop
+http://tv.shacktv.com:8080/live/solache/solache/60913.ts
+#EXTINF:-1, HOT JUNIOR  tvg-logo="https://i.imgur.com/0CdHHEM.png",Junior
+http://tv.shacktv.com:8080/live/solache/solache/60912.ts
+#EXTINF:-1, HOT LULI  tvg-logo="https://i.imgur.com/JndM8kM.png",Luli
+http://tv.shacktv.com:8080/live/solache/solache/60911.ts
+#EXTINF:-1, HOT ZONE  tvg-logo="https://i.imgur.com/Nq8bBqt.png",HOT Zone
+http://tv.shacktv.com:8080/live/solache/solache/60910.ts
+#EXTINF:-1, YES 1 tvg-logo="https://i.imgur.com/0W4yLYz.png",YES 1
+http://tv.shacktv.com:8080/live/solache/solache/60978.ts
+#EXTINF:-1, YES 2  tvg-logo="https://i.imgur.com/kgN6jj8.png",YES 2
+http://tv.shacktv.com:8080/live/solache/solache/60977.ts
+#EXTINF:-1, YES 3 tvg-logo="https://i.imgur.com/Y0eqjhm.png",YES 3
+http://tv.shacktv.com:8080/live/solache/solache/60976.ts
+#EXTINF:-1, YES 4 tvg-logo="https://i.imgur.com/5Smfqh6.png",YES 4
+http://tv.shacktv.com:8080/live/solache/solache/60975.ts
+#EXTINF:-1, YES 5  tvg-logo="https://i.imgur.com/ixmzhLP.png",YES 5
+http://tv.shacktv.com:8080/live/solache/solache/60974.ts
+#EXTINF:-1, YES ACTION tvg-logo="https://i.imgur.com/ObbGYBi.png",Yes Action
+http://tv.shacktv.com:8080/live/solache/solache/60973.ts
+#EXTINF:-1, YES BABY TV tvg-logo="https://i.imgur.com/Fp3Vdwe.png",Baby TV
+http://tv.shacktv.com:8080/live/solache/solache/60971.ts
+#EXTINF:-1, YES CBS tvg-logo="https://i.imgur.com/juCWJFF.png",CBS Reality
+http://tv.shacktv.com:8080/live/solache/solache/60930.ts
+#EXTINF:-1, YES COMEDY tvg-logo="https://i.imgur.com/MWCq3o2.png",Yes Comedy
+http://tv.shacktv.com:8080/live/solache/solache/60970.ts
+#EXTINF:-1, YES DISCOVERY  tvg-logo="https://i.imgur.com/oGkXq3f.png",Discovery
+http://tv.shacktv.com:8080/live/solache/solache/60969.ts
+#EXTINF:-1, YES DISNEY  tvg-logo="https://i.imgur.com/GnGwGVv.png",Disney
+http://tv.shacktv.com:8080/live/solache/solache/60968.ts
+#EXTINF:-1, YES DISNEY JR tvg-logo="https://i.imgur.com/pLmCfvp.png",Disney Junior
+http://tv.shacktv.com:8080/live/solache/solache/60967.ts
+#EXTINF:-1, YES DOCU tvg-logo="https://i.imgur.com/pIFYyB6.png",Yes Docu
+http://tv.shacktv.com:8080/live/solache/solache/60966.ts
+#EXTINF:-1, YES DRAMA tvg-logo="https://i.imgur.com/ZXElIGc.png",Yes Drama
+http://tv.shacktv.com:8080/live/solache/solache/60965.ts
+#EXTINF:-1, YES EGO TOTAL tvg-logo="https://i.imgur.com/2fkGTWE.png",Ego Total
+http://tv.shacktv.com:8080/live/solache/solache/60929.ts
+#EXTINF:-1, YES FOOD CHANNEL tvg-logo="https://i.imgur.com/0R116tp.png",Food Channel
+http://tv.shacktv.com:8080/live/solache/solache/60964.ts
+#EXTINF:-1, YES GOOD LIFE  tvg-logo="https://i.imgur.com/gKXaCgt.png",Good Life
+http://tv.shacktv.com:8080/live/solache/solache/60962.ts
+#EXTINF:-1, YES HEALT CHANNEL tvg-logo="https://i.imgur.com/RavhUo3.png",Health Channel
+http://tv.shacktv.com:8080/live/solache/solache/60961.ts
+#EXTINF:-1, YES HISTORY  tvg-logo="https://i.imgur.com/jaeDXB9.png",History
+http://tv.shacktv.com:8080/live/solache/solache/60960.ts
+#EXTINF:-1, YES HOME PLUS tvg-logo="https://i.imgur.com/byCD8kW.png",Home+
+http://tv.shacktv.com:8080/live/solache/solache/60959.ts
+#EXTINF:-1, YES HOP CHILDHOOD tvg-logo="https://i.imgur.com/fSYn2Wp.png",Hop Childhood
+http://tv.shacktv.com:8080/live/solache/solache/60957.ts
+#EXTINF:-1, YES ISRAELI CINEMA tvg-logo="https://i.imgur.com/pjKmb4d.png",Yes Israeli Cinema
+http://tv.shacktv.com:8080/live/solache/solache/60946.ts
+#EXTINF:-1, YES JUNIOR tvg-logo="https://i.imgur.com/0CdHHEM.png",Juniory
+http://tv.shacktv.com:8080/live/solache/solache/60945.ts
+#EXTINF:-1, YES LIFETIME tvg-logo="https://i.imgur.com/lC11Fni.png",Lifetime
+http://tv.shacktv.com:8080/live/solache/solache/60944.ts
+#EXTINF:-1, YES MIKAN tvg-logo="https://i.imgur.com/0NpeC9V.png",Kan 11
+http://tv.shacktv.com:8080/live/solache/solache/60942.ts
+#EXTINF:-1, YES MUSIC 24 tvg-logo="https://i.imgur.com/HbSoQNR.png",Channel 24
+http://tv.shacktv.com:8080/live/solache/solache/60940.ts
+#EXTINF:-1, YES NAT GEO WILD tvg-logo="https://i.imgur.com/4Qp91Vq.png",National Geographic
+http://tv.shacktv.com:8080/live/solache/solache/60938.ts
+#EXTINF:-1, YES NICK JR tvg-logo="https://i.imgur.com/r0luKGT.png",Nick Jr
+http://tv.shacktv.com:8080/live/solache/solache/60937.ts
+#EXTINF:-1, YES NICKELODEON tvg-logo="https://i.imgur.com/YXNCpOU.png",Nickelodeon
+http://tv.shacktv.com:8080/live/solache/solache/60936.ts
+#EXTINF:-1, YES OH  tvg-logo="https://i.imgur.com/6ZOppNM.png",Yes OH
+http://tv.shacktv.com:8080/live/solache/solache/60935.ts
+#EXTINF:-1, YES ONE  tvg-logo="https://i.imgur.com/MAh1X0V.png",ONE
+http://tv.shacktv.com:8080/live/solache/solache/60934.ts
+#EXTINF:-1, YES SPORTS 1 tvg-logo="https://i.imgur.com/xYy4Ftg.png",Sport 1
+http://tv.shacktv.com:8080/live/solache/solache/60956.ts
+#EXTINF:-1, YES SPORTS 2 tvg-logo="https://i.imgur.com/FVVUrks.png",Sport 2
+http://tv.shacktv.com:8080/live/solache/solache/60955.ts
+#EXTINF:-1, YES SPORTS 5 GOLD  tvg-logo="https://i.imgur.com/utPEPtv.png",Sport 5 Gold
+http://tv.shacktv.com:8080/live/solache/solache/60950.ts
+#EXTINF:-1, YES SPORTS 5  tvg-logo="https://i.imgur.com/mxFPpvV.png",Sport 5
+http://tv.shacktv.com:8080/live/solache/solache/60952.ts
+#EXTINF:-1, YES SPORTS 5 PLUS tvg-logo="https://i.imgur.com/SUuCFoj.png",Sport 5+
+http://tv.shacktv.com:8080/live/solache/solache/60951.ts
+#EXTINF:-1, YES SPORTS 5 PLUS LIVE  tvg-logo="https://i.imgur.com/wbBb77j.png",Sport 5 LIVE
+http://tv.shacktv.com:8080/live/solache/solache/60949.ts
+#EXTINF:-1, YES TRAVEL CHANNELL tvg-logo="https://i.imgur.com/lnO7Mf3.png",Travel Channel
+http://tv.shacktv.com:8080/live/solache/solache/60948.ts
+#EXTINF:-1, YES VIVA  tvg-logo="https://i.imgur.com/8bDE1h2.png",Viva
+http://tv.shacktv.com:8080/live/solache/solache/60933.ts
+#EXTINF:-1, YES VIVA PLUS  tvg-logo="https://i.imgur.com/rPAHUL6.png",Viva+
+http://tv.shacktv.com:8080/live/solache/solache/60927.ts
+#EXTINF:-1, YES WIZ tvg-logo="https://i.imgur.com/XQf8G55.png",Wiz
+http://tv.shacktv.com:8080/live/solache/solache/60926.ts
+#EXTINF:-1, YES YAM TIHONI tvg-logo="https://i.imgur.com/02ZroAt.png",Yam Tihoni
+http://tv.shacktv.com:8080/live/solache/solache/60932.ts
+#EXTINF:-1, YES ZOOM tvg-logo="https://i.imgur.com/t33EZTt.png",Zoom
+http://tv.shacktv.com:8080/live/solache/solache/60931.ts
